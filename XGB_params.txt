@@ -1,0 +1,21 @@
+
+Model basic
+Training completing in: 130.059s
+Best Params: {'n_estimators': 2000, 'max_depth': 8, 'learning_rate': 0.001}
+Best Score: 0.7653949984126301            
+Training Accuracy: 0.8849707136702261
+Testing Accuracy: 0.8747105082330187
+
+Model imp
+Training completing in: 137.150s
+Best Params: {'n_estimators': 2000, 'max_depth': 8, 'learning_rate': 0.001}
+Best Score: 0.771810371118488            
+Training Accuracy: 0.8898572223252365
+Testing Accuracy: 0.8808439162191739
+
+Model all
+Training completing in: 157.723s
+Best Params: {'n_estimators': 2000, 'max_depth': 8, 'learning_rate': 0.001}
+Best Score: 0.7857905060520971            
+Training Accuracy: 0.897928687514316
+Testing Accuracy: 0.8909983966609829

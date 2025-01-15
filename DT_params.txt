@@ -1,0 +1,21 @@
+
+Model basic
+Training completing in: 99.410s
+Best Params: {'criterion': 'gini', 'max_depth': 5}
+Best Score: 0.7618943977073764            
+Training Accuracy: 0.8518231694680468
+Testing Accuracy: 0.8497442292520296
+
+Model imp
+Training completing in: 114.856s
+Best Params: {'criterion': 'gini', 'max_depth': 6}
+Best Score: 0.7827146987173829            
+Training Accuracy: 0.8630795911911956
+Testing Accuracy: 0.859033415621103
+
+Model all
+Training completing in: 123.920s
+Best Params: {'criterion': 'gini', 'max_depth': 5}
+Best Score: 0.7945406497087782            
+Training Accuracy: 0.8592729136898594
+Testing Accuracy: 0.8576336752093248
